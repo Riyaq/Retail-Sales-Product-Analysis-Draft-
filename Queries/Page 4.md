@@ -1,4 +1,4 @@
-## What is the age distribution of customers who shop regularly?
+## 9. What is the age distribution of customers who shop regularly?
 Create two Calulated column in Customers table [ Go to Report view > Click on 3 dot > New Column ]<br>
 ```
 Age(Calculated Column) = DATEDIFF(Customers[birthdate], TODAY(), YEAR)
