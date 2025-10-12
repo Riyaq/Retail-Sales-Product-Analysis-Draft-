@@ -17,7 +17,7 @@ IF(Customers[Age] < 25, "18-24",
 ```
 Create one Measure - <br>
 ```
-Regular Customers = 
+Regular Customers (Measure) = 
 CALCULATE(
     DISTINCTCOUNT(Customers[customer_id]),
     FILTER(
