@@ -1,0 +1,11 @@
+store_id,region_id,store_type,store_name,store_street_address,store_city,store_state,store_country,store_phone,first_opened_date,last_remodel_date,total_sqft,grocery_sqft
+1,1,Supercenter,Store_1,1 Store St,Toronto,ON,Canada,555-1000,2000-01-01,2015-01-01,1000,500
+2,2,Grocery,Store_2,2 Store St,Vancouver,CDMX,Mexico,555-1001,2000-12-31,2016-01-01,1100,550
+3,3,Convenience,Store_3,3 Store St,Mexico City,NY,USA,555-1002,2001-12-31,2016-12-31,1200,600
+4,4,Supercenter,Store_4,4 Store St,New York,CA,Canada,555-1003,2002-12-31,2017-12-31,1300,650
+5,1,Grocery,Store_5,5 Store St,Chicago,TX,Mexico,555-1004,2003-12-31,2018-12-31,1400,700
+6,2,Convenience,Store_6,6 Store St,Toronto,ON,USA,555-1005,2004-12-30,2019-12-31,1500,750
+7,3,Supercenter,Store_7,7 Store St,Vancouver,CDMX,Canada,555-1006,2005-12-30,2020-12-30,1600,800
+8,4,Grocery,Store_8,8 Store St,Mexico City,NY,Mexico,555-1007,2006-12-30,2021-12-30,1700,850
+9,1,Convenience,Store_9,9 Store St,New York,CA,USA,555-1008,2007-12-30,2022-12-30,1800,900
+10,2,Grocery,Store_10,10 Store St,Chicago,TX,Canada,555-1009,2008-12-29,2023-12-30,1900,950
