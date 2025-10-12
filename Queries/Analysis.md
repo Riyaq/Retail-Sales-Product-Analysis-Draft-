@@ -42,6 +42,10 @@ Values: [Avg Revenue per Customer]
 
 **Avg Revenue by Region**
 Bar Chart - Y - Sales_region, X - AVG order Value, Tool tip- AVG revenue per Customer.
+<br>
+This Slicer will work.
+
+
 
 <img width="970" height="457" alt="Captuure" src="https://github.com/user-attachments/assets/5d171a06-bc43-44be-9788-60d0bcb4b620" />
 
@@ -49,6 +53,7 @@ Bar Chart - Y - Sales_region, X - AVG order Value, Tool tip- AVG revenue per Cus
 
 
 
+<img width="924" height="436" alt="Captuhhre" src="https://github.com/user-attachments/assets/112d6775-1771-4278-a549-d19fe49f436c" />
 
 
 
