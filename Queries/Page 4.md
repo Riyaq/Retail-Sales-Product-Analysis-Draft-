@@ -1,4 +1,9 @@
 ## 9. What is the age distribution of customers who shop regularly?
+In analytics, regular shoppers usually means customers who purchased more than a threshold (e.g., X transactions in a given period).
+<br>
+For simplicity, let’s define:<br>
+👉 A regular customer = someone with at least 3 transactions in the dataset.
+<br>
 Create two Calulated column in Customers table [ Go to Report view > Click on 3 dot > New Column ]<br>
 ```
 Age(Calculated Column) = DATEDIFF(Customers[birthdate], TODAY(), YEAR)
