@@ -4,6 +4,8 @@ In analytics, regular shoppers usually means customers who purchased more than a
 For simplicity, let’s define:<br>
 👉 A regular customer = someone with at least 3 transactions in the dataset.
 <br>
+<br>
+<br>
 Create two Calulated column in Customers table [ Go to Report view > Click on 3 dot > New Column ]<br>
 ```
 Age(Calculated Column) = DATEDIFF(Customers[birthdate], TODAY(), YEAR)
