@@ -35,3 +35,6 @@ CALCULATE(
 )
 ```
 <img width="596" height="136" alt="lCapture" src="https://github.com/user-attachments/assets/87d3b919-9fdf-4393-a56a-0d636d472359" />
+<br>
+**Table**- <br>
+Col - Age group, Regular Customers
