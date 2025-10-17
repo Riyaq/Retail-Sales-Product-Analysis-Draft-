@@ -12,3 +12,5 @@ AVG revenue per Customer =
 DIVIDE( [Total Sales],
 DISTINCTCOUNT(Transactions[customer_id]))
 ```
+<img width="656" height="369" alt="Captuffre" src="https://github.com/user-attachments/assets/87582336-d86c-45ef-9d3f-011dc5ad7de7" />
+
