@@ -1,4 +1,4 @@
-## Who are the top customers by total purchase value?
+## Find top customers by total purchase value?
 
 Aggregate by customer_id, join Transactions, calculate revenue
 
